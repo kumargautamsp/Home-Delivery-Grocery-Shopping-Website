@@ -1,0 +1,12 @@
+.fText {
+    height: 25vh;
+    background-color: rgb(45, 53, 61);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+p {
+    margin-bottom: 1.5rem;
+}
